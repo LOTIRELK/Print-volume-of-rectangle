@@ -1,0 +1,8 @@
+U:\C#\WelcomeBack3\WelcomeBack3\WelcomeBack3\bin\Debug\WelcomeBack3.exe.config
+U:\C#\WelcomeBack3\WelcomeBack3\WelcomeBack3\bin\Debug\WelcomeBack3.exe
+U:\C#\WelcomeBack3\WelcomeBack3\WelcomeBack3\bin\Debug\WelcomeBack3.pdb
+U:\C#\WelcomeBack3\WelcomeBack3\WelcomeBack3\obj\Debug\WelcomeBack3.exe
+U:\C#\WelcomeBack3\WelcomeBack3\WelcomeBack3\obj\Debug\WelcomeBack3.pdb
+F:\Programming\C#\WelcomeBack3\WelcomeBack3\WelcomeBack3\bin\Debug\WelcomeBack3.exe.config
+F:\Programming\C#\WelcomeBack3\WelcomeBack3\WelcomeBack3\obj\Debug\WelcomeBack3.exe
+F:\Programming\C#\WelcomeBack3\WelcomeBack3\WelcomeBack3\obj\Debug\WelcomeBack3.pdb
